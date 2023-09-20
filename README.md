@@ -1,3 +1,7 @@
+
+https://github.com/KseGreb/react-translator-i18n/assets/110953599/a9359814-cebd-491b-a146-76ffc3414560
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
